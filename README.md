@@ -1,7 +1,21 @@
 # PathfindingAssignment
 This is a year 2 assignment on Path finding.  This used A-Star and Dijkstra's algorithms.  Path smoothing has also mean implementing using the Bézier Curve.  Path finding has been done in real time using the custom made TL-Engine created by the University of Central Lancashire's lecturers.
 --------------------------------------------------------------------------------------------------------------------------------------
-Assignment Brief:
+DISCLAIMER
+This assignment is my own work which uses the custom built graphics engine created by the lecturers at the university.  The university also owns ALL media files I used.
+Assignment as been marked by demonstration to the lecturer who has given me a provisional mark.  The assignment has not been moderated.
+Provisional mark: 98/100
+-------------------------------------------------------------------------------------------------------------------------------------
+INSTRUCTIONS
+1. Download ALL files and ensure they are all in the same directory.
+2. a) To open the project in visual studio, click on the .sln file, but note that the project will not compile as it requires the custom built graphics engine (TL-Engine.h)
+2 b) Obviosuly, the source and header files can be opened in notepad.
+2 c) If you want to see the program working in action then open the .exe file
+3. If you have any questions don't hesitate to contact me.
+
+If for some reason you can't use the .exe file or it doesn't work then instead you can see it in action by following this link: https://youtu.be/06EoYAWlS44
+--------------------------------------------------------------------------------------------------------------------------------------
+BRIEF:
 
 CO2301 - Games Development 1 - Assignment - 2018-19
 CO2301 / CO3519 Assignment - Path Finding
