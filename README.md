@@ -3,7 +3,7 @@ This is a year 2 assignment on Path finding.  This used A-Star and Dijkstra's al
 --------------------------------------------------------------------------------------------------------------------------------------
 DISCLAIMER
 This assignment is my own work which uses the custom built graphics engine created by the lecturers at the university.  The university also owns ALL media files I used.
-Assignment as been marked by demonstration to the lecturer who has given me a provisional mark.  The assignment has not been moderated.
+Assignment has been marked by demonstration to the lecturer who has given me a provisional mark.  The assignment has not been moderated.
 Provisional mark: 98/100
 -------------------------------------------------------------------------------------------------------------------------------------
 INSTRUCTIONS
