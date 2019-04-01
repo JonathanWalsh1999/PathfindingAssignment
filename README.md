@@ -15,7 +15,7 @@ INSTRUCTIONS
 
 If for some reason you can't use the .exe file or it doesn't work then instead you can see it in action by following this link: https://youtu.be/06EoYAWlS44
 --------------------------------------------------------------------------------------------------------------------------------------
-BRIEF:
+UCLan Assignment BRIEF(Copied):
 
 CO2301 - Games Development 1 - Assignment - 2018-19
 CO2301 / CO3519 Assignment - Path Finding
